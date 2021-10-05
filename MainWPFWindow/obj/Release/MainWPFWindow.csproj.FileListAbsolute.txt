@@ -1,0 +1,97 @@
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\MainWPFWindow.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\MainWPFWindow.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\MainWPFWindow.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\DataAccessLayer.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\EntityFramework.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\EntityFramework.SqlServer.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\CodeFirst.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\CodeFirst.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\DataAccessLayer.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\DataAccessLayer.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\EntityFramework.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Release\EntityFramework.SqlServer.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.csprojAssemblyReference.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AddCategoryForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AddGoodForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AddManufacturyForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AddPhotoForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AdministratorForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\BasketForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWindow.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AuthentificationForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MakeOrderForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\RegistrationForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\ShowPhotoForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\App.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow_MarkupCompile.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow_MarkupCompile.lref
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\App.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AddCategoryForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AddGoodForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AddManufacturyForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AddPhotoForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AdministratorForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\BasketForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWindow.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\AuthentificationForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MakeOrderForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\RegistrationForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\ShowPhotoForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\Theme\ButtonTheme.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\Theme\TextBoxTheme.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.g.resources
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.Properties.Resources.resources
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.csproj.GenerateResource.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.csproj.CoreCompileInputs.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.csproj.CopyComplete
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.pdb
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\MainWPFWindow.exe.config
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\MainWPFWindow.exe
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\MainWPFWindow.pdb
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\CodeFirst.exe
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\DataAccessLayer.exe
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\EntityFramework.dll
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\EntityFramework.SqlServer.dll
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\CodeFirst.pdb
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\CodeFirst.exe.config
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\DataAccessLayer.pdb
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\DataAccessLayer.exe.config
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\EntityFramework.xml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\bin\Release\EntityFramework.SqlServer.xml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.csprojAssemblyReference.cache
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AddCategoryForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AddGoodForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AddManufacturyForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AddPhotoForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AdministratorForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\BasketForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWindow.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AuthentificationForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MakeOrderForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\RegistrationForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\ShowPhotoForm.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\App.g.cs
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow_MarkupCompile.cache
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow_MarkupCompile.lref
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\App.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AddCategoryForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AddGoodForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AddManufacturyForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AddPhotoForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AdministratorForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\BasketForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWindow.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\AuthentificationForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MakeOrderForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\RegistrationForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\ShowPhotoForm.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\Theme\ButtonTheme.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\Theme\TextBoxTheme.baml
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.g.resources
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.Properties.Resources.resources
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.csproj.GenerateResource.cache
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.csproj.CopyComplete
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.exe
+E:\Sasha\WPF\InternetShopProject\MainWPFWindow\obj\Release\MainWPFWindow.pdb

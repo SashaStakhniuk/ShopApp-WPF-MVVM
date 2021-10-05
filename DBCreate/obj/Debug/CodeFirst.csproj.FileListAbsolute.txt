@@ -1,0 +1,12 @@
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+E:\ШАГ\КУРСОВА!!!\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache

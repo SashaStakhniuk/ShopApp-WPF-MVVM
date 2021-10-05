@@ -1,0 +1,29 @@
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\DataAccessLayer.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\DataAccessLayer.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\EntityFramework.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\CodeFirst.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\CodeFirst.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\EntityFramework.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\obj\Release\DataAccessLayer.csprojAssemblyReference.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\obj\Release\DataAccessLayer.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\DataAccessLayer.exe.config
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\DataAccessLayer.exe
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\CodeFirst.exe
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\EntityFramework.dll
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\CodeFirst.pdb
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\CodeFirst.exe.config
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\EntityFramework.xml
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\obj\Release\DataAccessLayer.csprojAssemblyReference.cache
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\obj\Release\DataAccessLayer.exe
+E:\Sasha\WPF\InternetShopProject\DataAccessLayer\obj\Release\DataAccessLayer.pdb

@@ -1,0 +1,23 @@
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\bin\Release\CodeFirst.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\bin\Release\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\bin\Release\CodeFirst.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\bin\Release\EntityFramework.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\bin\Release\EntityFramework.SqlServer.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\bin\Release\EntityFramework.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\bin\Release\EntityFramework.SqlServer.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\obj\Release\DataBaseCreate.csprojAssemblyReference.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\obj\Release\DataBaseCreate.csproj.CoreCompileInputs.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\obj\Release\DataBaseCreate.csproj.CopyComplete
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\obj\Release\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\CodeFirst\obj\Release\CodeFirst.pdb
+E:\Sasha\WPF\InternetShopProject\CodeFirst\bin\Release\CodeFirst.exe.config
+E:\Sasha\WPF\InternetShopProject\CodeFirst\bin\Release\CodeFirst.exe
+E:\Sasha\WPF\InternetShopProject\CodeFirst\bin\Release\CodeFirst.pdb
+E:\Sasha\WPF\InternetShopProject\CodeFirst\bin\Release\EntityFramework.dll
+E:\Sasha\WPF\InternetShopProject\CodeFirst\bin\Release\EntityFramework.SqlServer.dll
+E:\Sasha\WPF\InternetShopProject\CodeFirst\bin\Release\EntityFramework.xml
+E:\Sasha\WPF\InternetShopProject\CodeFirst\bin\Release\EntityFramework.SqlServer.xml
+E:\Sasha\WPF\InternetShopProject\CodeFirst\obj\Release\DataBaseCreate.csprojAssemblyReference.cache
+E:\Sasha\WPF\InternetShopProject\CodeFirst\obj\Release\DataBaseCreate.csproj.CopyComplete
+E:\Sasha\WPF\InternetShopProject\CodeFirst\obj\Release\CodeFirst.exe
+E:\Sasha\WPF\InternetShopProject\CodeFirst\obj\Release\CodeFirst.pdb

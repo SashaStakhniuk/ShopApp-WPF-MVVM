@@ -1,0 +1,130 @@
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\MainWPFWindow.exe
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\DatasFromDB.exe
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\EntityFramework.dll
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\EntityFramework.SqlServer.dll
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\CodeFirst.pdb
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\CodeFirst.exe.config
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\DatasFromDB.pdb
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\DatasFromDB.exe.config
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\EntityFramework.xml
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\EntityFramework.SqlServer.xml
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow.csprojAssemblyReference.cache
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\AdministratorForm.g.cs
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWindow.g.cs
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\AuthentificationForm.g.cs
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\RegistrationForm.g.cs
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\App.g.cs
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow_MarkupCompile.cache
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow_MarkupCompile.lref
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\AdministratorForm.baml
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWindow.baml
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\AuthentificationForm.baml
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\RegistrationForm.baml
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow.g.resources
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow.Properties.Resources.resources
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow.csproj.GenerateResource.cache
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow.csproj.CoreCompileInputs.cache
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow.exe
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow.pdb
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\MainWPFWindow.exe.config
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\bin\Debug\MainWPFWindow.pdb
+E:\ШАГ\КУРСОВА!!!\CodeFirst\MainWPFWindow\obj\Debug\MainWPFWindow.csproj.CopyComplete
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\MainWPFWindow.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\MainWPFWindow.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\MainWPFWindow.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\DataAccessLayer.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\EntityFramework.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\EntityFramework.SqlServer.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\CodeFirst.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\CodeFirst.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\DataAccessLayer.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\DataAccessLayer.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\EntityFramework.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\bin\Debug\EntityFramework.SqlServer.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.csprojAssemblyReference.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AddCategoryForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AddGoodForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AddManufacturyForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AddPhotoForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AdministratorForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWindow.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AuthentificationForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MakeOrderForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\RegistrationForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\ShowPhotoForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\App.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow_MarkupCompile.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow_MarkupCompile.lref
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AddCategoryForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AddGoodForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AddManufacturyForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AddPhotoForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AdministratorForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWindow.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\AuthentificationForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MakeOrderForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\RegistrationForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\ShowPhotoForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.g.resources
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.Properties.Resources.resources
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.csproj.GenerateResource.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.csproj.CoreCompileInputs.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.csproj.CopyComplete
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\App.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\Theme\TextBoxTheme.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\Theme\ButtonTheme.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\BasketForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\MainWPFWindow\obj\Debug\BasketForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\MainWPFWindow.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\MainWPFWindow.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\MainWPFWindow.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\DataAccessLayer.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\EntityFramework.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\EntityFramework.SqlServer.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\CodeFirst.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\CodeFirst.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\DataAccessLayer.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\DataAccessLayer.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\EntityFramework.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\bin\Debug\EntityFramework.SqlServer.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.csprojAssemblyReference.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AddCategoryForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AddGoodForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AddManufacturyForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AddPhotoForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AdministratorForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\BasketForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWindow.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AuthentificationForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MakeOrderForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\RegistrationForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\ShowPhotoForm.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\App.g.cs
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow_MarkupCompile.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow_MarkupCompile.lref
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\App.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AddCategoryForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AddGoodForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AddManufacturyForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AddPhotoForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AdministratorForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\BasketForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWindow.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\AuthentificationForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MakeOrderForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\RegistrationForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\ShowPhotoForm.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\Theme\ButtonTheme.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\Theme\TextBoxTheme.baml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.g.resources
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.Properties.Resources.resources
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.csproj.GenerateResource.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.csproj.CoreCompileInputs.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.csproj.CopyComplete
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject(Last Version)\InternetShopProject\MainWPFWindow\obj\Debug\MainWPFWindow.pdb

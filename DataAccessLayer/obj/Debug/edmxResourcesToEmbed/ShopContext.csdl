@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InternetShopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Goods" Relationship="Self.FK_dbo_Goods_dbo_Categories_CategoryId" FromRole="Categories" ToRole="Goods" />
+  </EntityType>
+  <EntityType Name="Goods">
+    <Key>
+      <PropertyRef Name="GoodId" />
+    </Key>
+    <Property Name="GoodId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GoodName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ManufacturerId" Type="Int32" />
+    <Property Name="CategoryId" Type="Int32" />
+    <Property Name="PhotoId" Type="Int32" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="GoodCount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Categories" Relationship="Self.FK_dbo_Goods_dbo_Categories_CategoryId" FromRole="Goods" ToRole="Categories" />
+    <NavigationProperty Name="Manufacturers" Relationship="Self.FK_dbo_Goods_dbo_Manufacturers_ManufacturerId" FromRole="Goods" ToRole="Manufacturers" />
+    <NavigationProperty Name="Photos" Relationship="Self.FK_dbo_Goods_dbo_Photos_PhotoId" FromRole="Goods" ToRole="Photos" />
+    <NavigationProperty Name="Receipts" Relationship="Self.FK_dbo_Receipts_dbo_Goods_GoodId" FromRole="Goods" ToRole="Receipts" />
+  </EntityType>
+  <EntityType Name="Manufacturers">
+    <Key>
+      <PropertyRef Name="ManufacturerId" />
+    </Key>
+    <Property Name="ManufacturerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ManufacturerName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Goods" Relationship="Self.FK_dbo_Goods_dbo_Manufacturers_ManufacturerId" FromRole="Manufacturers" ToRole="Goods" />
+  </EntityType>
+  <EntityType Name="People">
+    <Key>
+      <PropertyRef Name="PersonId" />
+    </Key>
+    <Property Name="PersonId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Login" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Role" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Receipts" Relationship="Self.FK_dbo_Receipts_dbo_People_PersonId" FromRole="People" ToRole="Receipts" />
+  </EntityType>
+  <EntityType Name="Photos">
+    <Key>
+      <PropertyRef Name="PhotoId" />
+    </Key>
+    <Property Name="PhotoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PhotoAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Goods" Relationship="Self.FK_dbo_Goods_dbo_Photos_PhotoId" FromRole="Photos" ToRole="Goods" />
+  </EntityType>
+  <EntityType Name="Receipts">
+    <Key>
+      <PropertyRef Name="ReceiptId" />
+    </Key>
+    <Property Name="ReceiptId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PersonId" Type="Int32" />
+    <Property Name="GoodId" Type="Int32" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Amount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Discount" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="GeneralPrice" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="BuyTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Goods" Relationship="Self.FK_dbo_Receipts_dbo_Goods_GoodId" FromRole="Receipts" ToRole="Goods" />
+    <NavigationProperty Name="People" Relationship="Self.FK_dbo_Receipts_dbo_People_PersonId" FromRole="Receipts" ToRole="People" />
+  </EntityType>
+  <Association Name="FK_dbo_Goods_dbo_Categories_CategoryId">
+    <End Role="Categories" Type="Self.Categories" Multiplicity="0..1" />
+    <End Role="Goods" Type="Self.Goods" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Goods">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Goods_dbo_Manufacturers_ManufacturerId">
+    <End Role="Manufacturers" Type="Self.Manufacturers" Multiplicity="0..1" />
+    <End Role="Goods" Type="Self.Goods" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manufacturers">
+        <PropertyRef Name="ManufacturerId" />
+      </Principal>
+      <Dependent Role="Goods">
+        <PropertyRef Name="ManufacturerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Goods_dbo_Photos_PhotoId">
+    <End Role="Photos" Type="Self.Photos" Multiplicity="0..1" />
+    <End Role="Goods" Type="Self.Goods" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Photos">
+        <PropertyRef Name="PhotoId" />
+      </Principal>
+      <Dependent Role="Goods">
+        <PropertyRef Name="PhotoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Receipts_dbo_Goods_GoodId">
+    <End Role="Goods" Type="Self.Goods" Multiplicity="0..1" />
+    <End Role="Receipts" Type="Self.Receipts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Goods">
+        <PropertyRef Name="GoodId" />
+      </Principal>
+      <Dependent Role="Receipts">
+        <PropertyRef Name="GoodId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Receipts_dbo_People_PersonId">
+    <End Role="People" Type="Self.People" Multiplicity="0..1" />
+    <End Role="Receipts" Type="Self.Receipts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="People">
+        <PropertyRef Name="PersonId" />
+      </Principal>
+      <Dependent Role="Receipts">
+        <PropertyRef Name="PersonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="InternetShopRepository" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="Self.Categories" />
+    <EntitySet Name="Goods" EntityType="Self.Goods" />
+    <EntitySet Name="Manufacturers" EntityType="Self.Manufacturers" />
+    <EntitySet Name="People" EntityType="Self.People" />
+    <EntitySet Name="Photos" EntityType="Self.Photos" />
+    <EntitySet Name="Receipts" EntityType="Self.Receipts" />
+    <AssociationSet Name="FK_dbo_Goods_dbo_Categories_CategoryId" Association="Self.FK_dbo_Goods_dbo_Categories_CategoryId">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Goods" EntitySet="Goods" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Goods_dbo_Manufacturers_ManufacturerId" Association="Self.FK_dbo_Goods_dbo_Manufacturers_ManufacturerId">
+      <End Role="Manufacturers" EntitySet="Manufacturers" />
+      <End Role="Goods" EntitySet="Goods" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Goods_dbo_Photos_PhotoId" Association="Self.FK_dbo_Goods_dbo_Photos_PhotoId">
+      <End Role="Photos" EntitySet="Photos" />
+      <End Role="Goods" EntitySet="Goods" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Receipts_dbo_Goods_GoodId" Association="Self.FK_dbo_Receipts_dbo_Goods_GoodId">
+      <End Role="Goods" EntitySet="Goods" />
+      <End Role="Receipts" EntitySet="Receipts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Receipts_dbo_People_PersonId" Association="Self.FK_dbo_Receipts_dbo_People_PersonId">
+      <End Role="People" EntitySet="People" />
+      <End Role="Receipts" EntitySet="Receipts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

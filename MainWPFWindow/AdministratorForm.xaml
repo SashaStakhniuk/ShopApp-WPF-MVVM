@@ -1,0 +1,198 @@
+﻿<Window x:Class="MainWPFWindow.AdministratorForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MainWPFWindow"
+        mc:Ignorable="d"
+        Title="AdministratorForm" Height="450" Width="800">
+    <Grid>
+        <TabControl x:Name="AdminTabControl" FontSize="16" Grid.Column="2" BorderBrush="Black" BorderThickness="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" >
+
+            <TabItem Header="CustomersDB" ScrollViewer.CanContentScroll="True">
+                <!--<StackPanel DataContext="{Binding ElementName=lbUsers, Path=SelectedItem}">-->
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <DataGrid x:Name="dataGridPersons" AutoGenerateColumns="False" SelectionMode="Extended" Height="Auto" Grid.Row="0"  Grid.RowSpan="2"  Margin="3,10,3,0" ItemsSource ="{Binding}">
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Width="auto" Header="CustomerId" Binding="{Binding PersonId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="FirstName" Binding="{Binding FirstName}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="LastName" Binding="{Binding LastName}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="Email" Binding="{Binding Email}" ></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="Role" Binding="{Binding Role}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="Login" Binding="{Binding Login}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="Password" Binding="{Binding Password}"></DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="AddNewPersonButton" Content="Add Person" Grid.Column="0" FontSize="20" Margin="8" Click="AddNewPersonButton_Click"></Button>
+                        <Button x:Name="EditPersonButton" Content="Edit Person" Grid.Column="1" FontSize="20" Margin="8"  Click="EditPersonButton_Click"></Button>
+                        <Button x:Name="DeletePersonButton" Content="Remove Person" Grid.Column="2" FontSize="20" Margin="8"  Click="DeletePersonButton_Click"></Button>
+                    </Grid>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Goods">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <DataGrid x:Name="dataGridGoods" AutoGenerateColumns="False" Height="Auto" Grid.Row="0" Margin="3,10,3,0" ItemsSource ="{Binding}" >
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Width="auto" Header="GoodId" Binding="{ Binding GoodId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="GoodName" Binding="{Binding GoodName}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="ManufacturerId" Binding="{Binding ManufacturerId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="CategoryId" Binding="{Binding CategoryId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="PhotoId" Binding="{Binding PhotoId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="Price" Binding="{Binding Price}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="GoodCount" Binding="{Binding GoodCount}"></DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="AddGoodButton" Content="Add Good" FontSize="20" Grid.Column="0" Margin="8" Click="AddGoodButton_Click"></Button>
+                        <Button x:Name="EditGoodButton" Content="Edit Good" FontSize="20" Grid.Column="1" Margin="8" Click="EditGoodButton_Click"></Button>
+                        <Button x:Name="RemoveGoodButton" Content="Remove Good" FontSize="20" Grid.Column="2" Margin="8" Click="RemoveGoodButton_Click"></Button>
+                    </Grid>
+                </Grid>
+
+            </TabItem>
+            <TabItem Header="Categories">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <DataGrid x:Name="dataGridCategories" AutoGenerateColumns="False" Height="Auto" Grid.Row="0" Margin="3,10,3,0" ItemsSource ="{Binding}" >
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Width="auto" Header="CategoryId" Binding="{Binding CategoryId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="CategoryName" Binding="{Binding CategoryName}"></DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="AddCategoryButton" Content="Add Category" FontSize="20" Grid.Column="0" Margin="8" Click="AddCategoryButton_Click"></Button>
+                        <Button x:Name="EditCategoryButton" Content="Edit Category" FontSize="20" Grid.Column="1" Margin="8" Click="EditCategoryButton_Click"></Button>
+                        <Button x:Name="RemoveCategoryButton" Content="Remove Category" FontSize="20" Grid.Column="2" Margin="8" Click="RemoveCategoryButton_Click"></Button>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Manufacturers">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <DataGrid x:Name="dataGridManufacturers" AutoGenerateColumns="False" Height="Auto" Grid.Row="0" Margin="3,10,3,0" ItemsSource ="{Binding}" >
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Width="auto" Header="ManufacturerId" Binding="{Binding ManufacturerId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="ManufacturerName" Binding="{Binding ManufacturerName}"></DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="AddManufacturyButton" Content="Add Manufactury" FontSize="20" Grid.Column="0" Margin="8" Click="AddManufacturyButton_Click"></Button>
+                        <Button x:Name="EditManufacturyButton" Content="Edit Manufactury" FontSize="20" Grid.Column="1" Margin="8" Click="EditManufacturyButton_Click"></Button>
+                        <Button x:Name="RemoveManufacturyButton" Content="Remove Manufactury" FontSize="20" Grid.Column="2" Margin="8" Click="RemoveManufacturyButton_Click"></Button>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Photos">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Row="0" Grid.Column="0">
+                        <DataGrid x:Name="dataGridPhotos" AutoGenerateColumns="False" Height="Auto" Margin="3,10,3,0" ItemsSource ="{Binding}" SelectionChanged="dataGridPhotos_SelectionChanged">
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Width="auto" Header="PhotoId" Binding="{Binding PhotoId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="PhotoAddress" Binding="{Binding PhotoAddress}"></DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                    <ScrollViewer Grid.Row="0" Grid.Column="1">
+                        <StackPanel x:Name="PhotoViewStackPanel">
+                        </StackPanel>
+                    </ScrollViewer>
+                    <Grid Grid.Row="1" Grid.ColumnSpan="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="AddPhotoButton" Content="Add Photo" FontSize="20" Grid.Column="0" Margin="8" Click="AddPhotoButton_Click"></Button>
+                        <Button x:Name="EditPhotoButton" Content="Edit Photo" FontSize="20" Grid.Column="1" Margin="8" Click="EditPhotoButton_Click"></Button>
+                        <Button x:Name="RemovePhotoButton" Content="Remove Photo" FontSize="20" Grid.Column="2" Margin="8" Click="RemovePhotoButton_Click"></Button>
+                    </Grid>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Receipts" ScrollViewer.CanContentScroll="True">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <DataGrid x:Name="dataGridReceipts" AutoGenerateColumns="False" SelectionMode="Extended" Height="Auto" Grid.Row="0"  Grid.RowSpan="2"  Margin="3,10,3,0" ItemsSource ="{Binding}">
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Width="auto" Header="ReceiptId" Binding="{Binding ReceiptId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="PersonId" Binding="{Binding PersonId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="GoodId" Binding="{Binding GoodId}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="Price" Binding="{Binding Price}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="Amount" Binding="{Binding Amount}" ></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="Discount" Binding="{Binding Discount}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="GeneralPrice" Binding="{Binding GeneralPrice}"></DataGridTextColumn>
+                                <DataGridTextColumn Width="auto" Header="BuyTime" Binding="{Binding BuyTime}"></DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="EditReceiptButton" Content="Edit Receipt" Grid.Column="1" FontSize="20" Margin="8" ></Button>
+                        <Button x:Name="DeleteReceiptButton" Content="Remove Receipt" Grid.Column="2" FontSize="20" Margin="8" Click="DeleteReceiptButton_Click" ></Button>
+                    </Grid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

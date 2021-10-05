@@ -1,0 +1,15 @@
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\CodeFirst.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\CodeFirst.pdb
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\CodeFirst.exe.config
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+E:\ШАГ\КУРСОВА!!!\InternetShopProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
